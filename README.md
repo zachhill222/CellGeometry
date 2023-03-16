@@ -23,3 +23,7 @@ After instalation run the following commands to compile and run the example code
 	shell$ cd ROOT/example
 	shell$ make
 	shell$ ./example
+
+## Citation ##
+	Hilliard, Z., "CellGeometry", Package Version 0.1
+	
