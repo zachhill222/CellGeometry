@@ -26,4 +26,4 @@ After instalation run the following commands to compile and run the example code
 
 ## Citation ##
 	Hilliard, Z., "CellGeometry", Package Version 0.1
-	
+	https://github.com/zachhill222/CellGeometry.git
