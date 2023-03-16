@@ -43,7 +43,7 @@ v0.1: Base functionality
 - CellGeometry::Geometry3D::pad() 		//append zeros to first axis (to the front or back of the geometry)
 - CellGeometry::Geometry3D::trim() 		//trim entries from first axis (from the front or back)
 - CellGeometry::Geometry3D::trimall() 		//trim entries from all sides of geometry
-- CellGeometry::Geometry3D::print() 		//print geometry to output file stream
+- CellGeometry::Geometry3D::print() 		//print geometry to specified file stream (e.g. print(std::cout))
 - CellGeometry::Geometry3D::porosity() 		//return the porosity of the geometry counting 0 as void and non-zero as solid
 - CellGeometry::Geometry3D::getaxisorder() 	//return the current axis order (default 'xyz', 'zxy' after calling setaxis(2,0,1) )
 - CellGeometry::HybgeParam3D::saveas()		//save Parameter.dat file for use with HybGe-Flow3D
