@@ -1,6 +1,6 @@
-## Instalation ##
+## Installation ##
 
-Instalation setup: extract include, src, and Makefile to some folder ROOT
+Installation setup: extract include, src, and Makefile to some folder ROOT
 
 ROOT/include: *.hpp files
 
