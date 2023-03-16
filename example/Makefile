@@ -6,7 +6,7 @@ OBJ_DIR    = .
 BIN_DIR    = .
 LIB_DIR    = ../lib
 
-TARGET     = example2
+TARGET     = example
 
 SRC        = $(wildcard $(SRC_DIR)/*.cpp)
 OBJ        = $(SRC:$(SRC_DIR)/%.cpp=$(OBJ_DIR)/%.o)
